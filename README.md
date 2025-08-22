@@ -18,3 +18,5 @@ A fully responsive food website built using HTML, CSS, and JavaScript.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/responsive-food-website.git
+## Live Demo
+[Click Here to View](https://asajahar.github.io/responsive-food-website/)
